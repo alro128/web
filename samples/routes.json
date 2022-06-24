@@ -1,70 +1,71 @@
-{ "routes": [{
-    "TotalDistance": 30,
-    "routeId": 1,
-    "Points": [
-        {
-            "Distance": 62,
-            "Latitude": -6.017334646464117,
-            "Longitude": 106.81153283595035,
-            "Time": "23 May 2021 09:00"
-        },
-        {
-            "Distance": 256,
-            "Latitude": -5.974865480227202,
-            "Longitude": 106.80724880370155,
-            "Time": "23 May 2021 11:10"
-        },
-        {
-            "Distance": 47,
-            "Latitude": -5.971634825149489,
-            "Longitude": 106.80001670383403,
-            "Time": "23 May 2021 10:20"
-        }
-    ]
-},
-{
-    "TotalDistance": 10,
-    "routeId": 2,
-    "Points": [
-        {
-            "Distance": 44,
-            "Latitude": 31.37562940417185,
-            "Longitude": 121.49831665449955,
-            "Time": "25 May 2021 17:20"
-        },
-        {
-            "Distance": 28,
-            "Latitude": 31.37088776142764,
-            "Longitude": 121.49742316916523,
-            "Time": "24 May 2021 11:20"
-        }
-    ]
-},
-{
-    "TotalDistance": 130,
-    "routeId": 3,
-    "Points": [
-        {
-            "Distance": 61,
-            "Latitude": -6.017334646464117,
-            "Longitude": 106.81153283595035,
-            "Speed": 14,
-            "Datetime": "23 May 2021 18:10"
-        },
-        {
-            "Distance": 26,
-            "Latitude": -5.974865480227202,
-            "Longitude": 106.80724880370155,
-            "Speed": 14,
-            "Datetime": "12 Jun 2021 11:15"
-        },
-        {
-            "Distance": 43,
-            "Latitude": -5.971634825149489,
-            "Longitude": 106.80001670383403,
-            "Speed": 14,
-            "Datetime": "23 May 2021 10:37"
-        }
-    ]
-}
+[
+    {
+        "TotalDistance": 30,
+        "routeId": 1,
+        "Points": [
+            {
+                "Distance": 62,
+                "Latitude": -6.017334646464117,
+                "Longitude": 106.81153283595035,
+                "Time": "23 May 2021 09:00"
+            },
+            {
+                "Distance": 256,
+                "Latitude": -5.974865480227202,
+                "Longitude": 106.80724880370155,
+                "Time": "23 May 2021 11:10"
+            },
+            {
+                "Distance": 47,
+                "Latitude": -5.971634825149489,
+                "Longitude": 106.80001670383403,
+                "Time": "23 May 2021 10:20"
+            }
+        ]
+    },
+    {
+        "TotalDistance": 10,
+        "routeId": 2,
+        "Points": [
+            {
+                "Distance": 44,
+                "Latitude": 31.37562940417185,
+                "Longitude": 121.49831665449955,
+                "Time": "25 May 2021 17:20"
+            },
+            {
+                "Distance": 28,
+                "Latitude": 31.37088776142764,
+                "Longitude": 121.49742316916523,
+                "Time": "24 May 2021 11:20"
+            }
+        ]
+    },
+    {
+        "TotalDistance": 130,
+        "routeId": 3,
+        "Points": [
+            {
+                "Distance": 61,
+                "Latitude": -6.017334646464117,
+                "Longitude": 106.81153283595035,
+                "Speed": 14,
+                "Datetime": "23 May 2021 18:10"
+            },
+            {
+                "Distance": 26,
+                "Latitude": -5.974865480227202,
+                "Longitude": 106.80724880370155,
+                "Speed": 14,
+                "Datetime": "12 Jun 2021 11:15"
+            },
+            {
+                "Distance": 43,
+                "Latitude": -5.971634825149489,
+                "Longitude": 106.80001670383403,
+                "Speed": 14,
+                "Datetime": "23 May 2021 10:37"
+            }
+        ]
+    }
 ]
