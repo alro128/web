@@ -1,0 +1,71 @@
+[
+    {
+        "TotalDistance": 30,
+        "routeId": 1,
+        "Points": [
+            {
+                "Distance": 62,
+                "Latitude": -6.017334646464117,
+                "Longitude": 106.81153283595035,
+                "Time": "Mon, 23 May 2022 09:00:00 GMT"
+            },
+            {
+                "Distance": 256,
+                "Latitude": -5.974865480227202,
+                "Longitude": 106.80724880370155,
+                "Time": "Mon, 23 May 2022 11:10:00 GMT"
+            },
+            {
+                "Distance": 47,
+                "Latitude": -5.971634825149489,
+                "Longitude": 106.80001670383403,
+                "Time": "Mon, 23 May 2022 10:20:00 GMT"
+            }
+        ]
+    },
+    {
+        "TotalDistance": 10,
+        "routeId": 2,
+        "Points": [
+            {
+                "Distance": 44,
+                "Latitude": 31.37562940417185,
+                "Longitude": 121.49831665449955,
+                "Time": "Wed, 25 May 2022 17:20:00 GMT"
+            },
+            {
+                "Distance": 28,
+                "Latitude": 31.37088776142764,
+                "Longitude": 121.49742316916523,
+                "Time": "Tue, 24 May 2022 11:20:00 GMT"
+            }
+        ]
+    },
+    {
+        "TotalDistance": 130,
+        "routeId": 3,
+        "Points": [
+            {
+                "Distance": 61,
+                "Latitude": -6.017334646464117,
+                "Longitude": 106.81153283595035,
+                "Speed": 14,
+                "Datetime": "Mon, 23 May 2022 18:10:00 GMT"
+            },
+            {
+                "Distance": 26,
+                "Latitude": -5.974865480227202,
+                "Longitude": 106.80724880370155,
+                "Speed": 14,
+                "Datetime": "Tue, 14 Jun 2022 11:15:00 GMT"
+            },
+            {
+                "Distance": 43,
+                "Latitude": -5.971634825149489,
+                "Longitude": 106.80001670383403,
+                "Speed": 14,
+                "Datetime": "Mon, 23 May 2022 10:37:00 GMT"
+            }
+        ]
+    }
+]
