@@ -50,21 +50,21 @@
                 "Latitude": -6.017334646464117,
                 "Longitude": 106.81153283595035,
                 "Speed": 14,
-                "Datetime": "Mon, 23 May 2022 18:10:00 GMT"
+                "Time": "Mon, 23 May 2022 18:10:00 GMT"
             },
             {
                 "Distance": 26,
                 "Latitude": -5.974865480227202,
                 "Longitude": 106.80724880370155,
                 "Speed": 14,
-                "Datetime": "Tue, 14 Jun 2022 11:15:00 GMT"
+                "Time": "Tue, 14 Jun 2022 11:15:00 GMT"
             },
             {
                 "Distance": 43,
                 "Latitude": -5.971634825149489,
                 "Longitude": 106.80001670383403,
                 "Speed": 14,
-                "Datetime": "Mon, 23 May 2022 10:37:00 GMT"
+                "Time": "Mon, 23 May 2022 10:37:00 GMT"
             }
         ]
     }
